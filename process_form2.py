@@ -1,4 +1,4 @@
-#Process simplified data with Douglas Peucker algorithm: to use fewer points to represent a biking route in the documents 
+#Process Form2 data with Douglas Peucker algorithm: to use fewer points to represent a biking route in the documents 
 import pandas as pd
 import numpy as np
 from itertools import groupby
